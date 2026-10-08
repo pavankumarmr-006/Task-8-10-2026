@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Mini Employee Data Project
 
 This is a simple Python project to analyze employee salary data using Pandas and Matplotlib.
@@ -42,3 +43,7 @@ employee-data-project/
 ├── Task15.py
 ├── salary_chart.png
 └── README.md
+=======
+# Task-8-10-2026
+The concepts covered during Week 1, programming tasks.
+>>>>>>> c7a7a050b94d0bd708a434dd6ff4e93fbab0770c
