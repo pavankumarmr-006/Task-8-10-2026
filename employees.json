@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Pavan",
+        "department": "Gen AI/ML Python Devloper"
+    },
+    {
+        "id": 2,
+        "name": "Varun",
+        "department": "NOC Analyst"
+    },
+    {
+        "id": 3,
+        "name": "Abhi",
+        "department": "IT Support"
+    }
+]
